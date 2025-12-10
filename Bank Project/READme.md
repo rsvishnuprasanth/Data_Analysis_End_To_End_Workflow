@@ -77,10 +77,10 @@ The EDA process included:
 
 ---
 
-## 🚀 Project Preview
+### 🚀 Project Preview
+![Python EDA](https://github.com/rsvishnuprasanth/Data_Analysis_End_To_End_Workflow/blob/main/Bank%20Project/Project%20Images/Python%20EDA%20images.png)
+![Power BI dashboard](https://github.com/rsvishnuprasanth/Data_Analysis_End_To_End_Workflow/blob/main/Bank%20Project/Project%20Images/Power%20BI%20bank%20dashboard%20images.png)
 
-🔹 [**Python EDA**](https://github.com/rsvishnuprasanth/Data_Analysis_End_To_End_Workflow/blob/main/Bank%20Project/Project%20Images/Python%20EDA%20images.png)  
-🔹 [**Power BI dashboard**](https://github.com/rsvishnuprasanth/Data_Analysis_End_To_End_Workflow/blob/main/Bank%20Project/Project%20Images/Power%20BI%20bank%20dashboard%20images.png)  
 ---
 
 ## 🤝 Contribution
